@@ -7,10 +7,9 @@ https://hyperskill.org/projects/48 - project details
 
 # Example of a game:
 
+```
 Input command:
 start user hard
-
-```
 
 ---------
 |       |
