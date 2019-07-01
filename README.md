@@ -9,6 +9,9 @@ https://hyperskill.org/projects/48 - project details
 
 Input command:
 start user hard
+
+```
+
 ---------
 |       |
 |       |
@@ -78,3 +81,5 @@ Input command:
 Bad parameters!
 Input command:
 exit
+
+```
